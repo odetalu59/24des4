@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://noff.me/superjp/sitemap.xml
+Sitemap: http://noff.me/gilajp/sitemap.xml
+Sitemap: http://noff.me/gojekpot/sitemap.xml
+Sitemap: http://noff.me/winstrike69/sitemap.xml
+Sitemap: http://noff.me/slotgacor/sitemap.xml
+Sitemap: http://noff.me/slotzeus/sitemap.xml
+Sitemap: http://noff.me/kaptenjackpot/sitemap.xml
+Sitemap: http://noff.me/boosterjp/sitemap.xml
+Sitemap: http://noff.me/kerajaanslot/sitemap.xml
+Sitemap: http://noff.me/pakong86/sitemap.xml
+Sitemap: http://noff.me/viral88/sitemap.xml
+Sitemap: http://noff.me/clan4d/sitemap.xml
+Sitemap: http://noff.me/dinamit4d/sitemap.xml
+Sitemap: http://noff.me/elang212/sitemap.xml
+Sitemap: http://noff.me/gori77/sitemap.xml
+Sitemap: http://noff.me/viral4d/sitemap.xml
+Sitemap: http://noff.me/playground88/sitemap.xml
